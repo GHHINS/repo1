@@ -1,0 +1,8 @@
+eureka:
+   clint:
+      service-url:
+        defaultZone: http://loaclhost:8761/eureka
+service:
+   port: 8761
+
+
